@@ -11,7 +11,7 @@ print("Loading UILibrary")
 print("Loaded!")
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-   Name = "🎆 Hydrox - REFRESHED | Key System (K5/1/26)",
+   Name = "🎆 Hydrox - REFRESHED (K5/1/26)",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Loading...",
    LoadingSubtitle = "key.sys",
