@@ -3,7 +3,7 @@ print("Thank you for using Hydrox REFRESHED")
 wait(1)
 print("VERSION CHECKER LOADING....")
 wait(1)
-print("VERSION - A.1.1.26 (LATEST)")
+print("VERSION - K5/1/26 (LATEST)")
 wait(1)
 print("Installing Dependencies (takes longer on different executors)")
 wait(2)
@@ -14,7 +14,7 @@ local Window = Rayfield:CreateWindow({
    Name = "🎆 Hydrox - REFRESHED (K5/1/26)",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Loading...",
-   LoadingSubtitle = "key.sys",
+   LoadingSubtitle = "hydrox.main",
    ShowText = "Hydrox", -- for mobile users to unhide rayfield, change if you'd like
    Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
@@ -46,3 +46,4 @@ local Window = Rayfield:CreateWindow({
       Key = {"https://pastebin.com/raw/Pth0rxbW"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
+local Tab = Window:CreateTab("Tab Example", "rewind")
