@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PixelatedColors/FluxHub/refs/heads/main/assets/2.png" alt="Preview">
 </p>
-[![Discord][shield-discord-server]][discord-invite]
 
 A lightweight Roblox script hub with a simple UI and fast execution.
 ## Installation
