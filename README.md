@@ -19,4 +19,4 @@ A lightweight Roblox script hub with a simple UI and fast execution.
 - After pasting, make sure to inject your executor to the Roblox Process.
 - After injection, execute the script and wait 5 - 10 seconds for it to load.
 ## Supported Games
-- Universal
+- TO BE ADDED
