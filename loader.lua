@@ -69,3 +69,16 @@ local Window = WindUI:CreateWindow({
         -- API = {} ← Services. Read about it below ↓
     },
 })
+local MTab = Window:Tab({
+    Title = "Home",
+    Icon = "home", -- optional
+    Locked = false,
+})
+local Button = MTab:Button({
+    Title = "Button",
+    Desc = "Test Button",
+    Locked = false,
+    Callback = function()
+        -- ...
+    end
+})
