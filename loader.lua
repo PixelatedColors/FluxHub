@@ -1,14 +1,5 @@
 print("/ / / / / / / / FluxHub V1 / / / / / / / /")
 print("Thank you for using FluxHub")
-wait(1)
-print("[DEBUG] VERSION CHECKER LOADING....")
-wait(1)
-print("[DEBUG] VERSION - A126 (LATEST)")
-wait(1)
-print("[DEBUG] Installing Dependencies")
-wait(2)
-print("[DEBUG] Loading UILibrary")
-print("[DEBUG] Loaded.")
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 local Window = WindUI:CreateWindow({
     Title = "FluxHub | Alpha A126",
